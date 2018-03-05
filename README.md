@@ -1,4 +1,4 @@
-# Term - 2 - Project - 2 : Localization with Particle Filters - Kidnapped Vehicle Project
+# Term - 2 - Project - 3 : Localization with Particle Filters - Kidnapped Vehicle Project
 Udacity Self-Driving Car Nanodegree - Kidnapped Vehicle Project
 
 ## Overview
